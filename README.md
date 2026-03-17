@@ -1,6 +1,6 @@
 ## Hi, I'm Dima 👋
 
-**Senior Cloud & Network Engineer** with 17+ years of experience designing and delivering hybrid and Azure-based infrastructure.
+**Senior Cloud & Network Engineer** with 10+ years of experience in IT and designing and delivering hybrid and Azure-based infrastructure.
 
 I focus on building **secure, resilient, and scalable platforms** across on-prem and cloud environments, with strong foundations in networking, identity integration, Infrastructure as Code, and automation.
 
